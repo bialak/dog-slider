@@ -1,0 +1,54 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+h1.title {
+	font-style: arial;
+	text-align: center;
+	font-size: 3rem;
+	margin: 2% 0%;
+	text-transform: uppercase;
+}
+.slider {
+	width: 40%;
+	background-repeat: no-repeat;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background-color: white;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	padding-bottom: 35px;
+	margin-bottom: 25px;
+	margin-top: 50px;
+	animation: spin 4s linear infinite;
+	transition: 1s;
+}
+
+.photo {
+	width: 100%;
+	height: auto;
+}
+div.container {
+	text-align: center;
+	padding: 10px 20px;
+}
+
+.paw {
+	position: absolute;
+	font-size: 30px;
+}
+
+@keyframes spin {
+	0% {
+		width: 30%;
+	}
+	60% {
+		width: 45%;
+	}
+	100% {
+		width: 45%;
+	}
+}
