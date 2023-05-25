@@ -12,7 +12,7 @@ h1.title {
 	text-transform: uppercase;
 }
 .slider {
-	width: 40%;
+	width: 45%;
 	background-repeat: no-repeat;
 	position: absolute;
 	top: 50%;
@@ -23,8 +23,7 @@ h1.title {
 	padding-bottom: 35px;
 	margin-bottom: 25px;
 	margin-top: 50px;
-	animation: spin 4s linear infinite;
-	transition: 1s;
+	animation: grow 4s linear infinite;
 }
 
 .photo {
@@ -37,11 +36,41 @@ div.container {
 }
 
 .paw {
-	position: absolute;
-	font-size: 30px;
+	color: black;
+	transform: rotate(-40deg);
+	padding: 2px;
+	color: rgba(255, 255, 255, 0.6);
 }
 
-@keyframes spin {
+.paws {
+	position: absolute;
+	top: 70%;
+	left: 25%;
+	font-size: 2rem;
+	animation: movingpaws 4s linear infinite;
+	transition: 4s;
+}
+.active {
+	color: white;
+	font-size: 3rem;
+}
+
+/* @keyframes movingpaws {
+	0% {
+		top: 70%;
+		left: 25%;
+	}
+	60% {
+		top: 75%;
+		left: 30%;
+	}
+	100% {
+		top: 75%;
+		left: 30%;
+	}
+} */
+
+@keyframes grow {
 	0% {
 		width: 30%;
 	}
