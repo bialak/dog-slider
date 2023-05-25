@@ -7,21 +7,21 @@ const slideList = [
 ];
 const paws = [...document.querySelectorAll(".paw")];
 const dogImage = document.querySelector(".photo");
-let slideIndex = 0;
+let index = 0;
 
 const changePaw = () => {
 	document.querySelector(".active").classList.remove("active");
-	paws[slideIndex].classList.add("active");
+	paws[index].classList.add("active");
 };
 
 function showSlides() {
-	slideIndex++;
-	if (slideIndex + 1 > slideList.length) {
-		slideIndex = 0;
+	index++;
+	if (index + 1 > slideList.length) {
+		index = 0;
 	}
 	changePaw();
 
-	dogImage.src = slideList[slideIndex];
+	dogImage.src = slideList[index];
 }
 
 setInterval(showSlides, 4000);
