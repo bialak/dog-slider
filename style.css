@@ -23,6 +23,7 @@ h1.title {
 	margin-bottom: 25px;
 	margin-top: 50px;
 	animation: grow 4s linear infinite;
+	animation-delay: 0.5s;
 }
 
 .photo {
@@ -38,42 +39,32 @@ div.container {
 	color: black;
 	transform: rotate(-40deg);
 	padding: 2px;
-	color: rgba(255, 255, 255, 0.6);
+	color: rgba(5, 4, 4, 0.6);
 }
 
 .paws {
 	position: absolute;
-	top: 80%;
+	top: 18%;
 	left: 50%;
 	transform: translate(-50%, -80%);
-	font-size: 2rem;
-	animation: growpaws 4s linear infinite;
-}
-.active {
-	color: white;
 	font-size: 3rem;
 }
-
-@keyframes growpaws {
-	0% {
-		font-size: 2rem;
-	}
-	60% {
-		font-size: 2.5rem;
-	}
-	100% {
-		font-size: 2.5rem;
-	}
+.active {
+	color: black;
+	font-size: 4rem;
 }
 
 @keyframes grow {
 	0% {
 		width: 35%;
 	}
-	60% {
+	50% {
+		width: 45%;
+	}
+	85% {
 		width: 45%;
 	}
 	100% {
-		width: 45%;
+		width: 35%;
 	}
 }
