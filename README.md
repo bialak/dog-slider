@@ -8,7 +8,6 @@
     <a href="https://bialak.github.io/dog-slider/">View Demo</a>
     ·
     <a href="https://github.com/bialak/dog-slider/issues/new">Report Bug</a>
-    ·
   </p>
 </div>
 
