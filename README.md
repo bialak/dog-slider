@@ -5,9 +5,9 @@
   <p align="center">
    This slider is just baner withe the dogs :D . In one photo is my dog. If you like animals like me you can look at this project on your local repository.
     <br />
-    <a href="[https://github.com/github_username/repo_name](https://bialak.github.io/dog-slider/)">View Demo</a>
+    <a href="https://bialak.github.io/dog-slider/">View Demo</a>
     ·
-    <a href="[https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md](https://github.com/bialak/dog-slider/issues/new)">Report Bug</a>
+    <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md](https://github.com/bialak/dog-slider/issues/new)">Report Bug</a>
     ·
   </p>
 </div>
