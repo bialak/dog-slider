@@ -14,12 +14,28 @@
 ## About The Project
 
 
+
+
 <img width="1010" alt="Screenshot 2024-10-22 at 23 49 36" src="https://github.com/user-attachments/assets/593b1e09-2f8f-44be-80b1-f0f217abf81c">
+
+
 
 
 This slider is just baner with dogs :D . In one photo is my dog. If you like animals, like me, you can look at this project on your local repository.
 
 
+### Built With
+
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Vue][Vue.js]][Vue-url]
+* [![Angular][Angular.io]][Angular-url]
+* [![Svelte][Svelte.dev]][Svelte-url]
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 All you need to do is : 
 1. Clone repository writing in terminal : git clone https://github.com/bialak/dog-slider.git
