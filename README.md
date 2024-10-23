@@ -28,10 +28,8 @@ This slider is just baner with dogs :D . In one photo is my dog. If you like ani
 
 * ![Javascript][Javacript-logo]
 * ![Css][css-logo]
-* * ![Html][html-logo]
+* ![Html][html-logo]
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 All you need to do is : 
 1. Clone repository writing in terminal : git clone https://github.com/bialak/dog-slider.git
