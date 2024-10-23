@@ -28,6 +28,7 @@ This slider is just baner with dogs :D . In one photo is my dog. If you like ani
 
 * ![Javascript][Javacript-logo]
 * ![Css][css-logo]
+* * ![Html][html-logo]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -42,6 +43,7 @@ Maybe you can guess which dog is mine ? :D
 
 [Javacript-logo]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 [css-logo]: https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white
+[html-logo]:https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white
 
 
 
