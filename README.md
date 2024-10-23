@@ -26,14 +26,8 @@ This slider is just baner with dogs :D . In one photo is my dog. If you like ani
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![Javascript][Javacript-logo]]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -43,3 +37,13 @@ All you need to do is :
 3. Right click on index.html and choose option "Open in Live Server"
 
 Maybe you can guess which dog is mine ? :D
+
+
+[Javacript-logo]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+
+
+
+
+
+
+
