@@ -5,7 +5,7 @@
   <p align="center">
   Maybe you can guess which dog is mine ? :D
     <br />
-    <a href="https://bialak.github.io/dog-slider/">View Demo</a>
+    <a href="https://bialak.github.io/dog-slider/">View Page</a>
     ·
     <a href="https://github.com/bialak/dog-slider/issues/new">Report Bug</a>
   </p>
