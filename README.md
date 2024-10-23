@@ -38,14 +38,7 @@ This slider is just baner with dogs :D . In one photo is my dog. If you like ani
    ```sh
     git clone https://github.com/bialak/dog-slider.git
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-
-4. Download Live Server Extension in Visiual studio code or another code editor.
-
-6. Right click on index.html and choose option "Open in Live Server"
+2. Open `index.html` in your browser
    
 ### Contact
 
