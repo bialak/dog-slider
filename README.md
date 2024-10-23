@@ -26,7 +26,7 @@ This slider is just baner with dogs :D . In one photo is my dog. If you like ani
 
 ### Built With
 
-* [![Javascript][Javacript-logo]]
+* ![Javascript][Javacript-logo]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
