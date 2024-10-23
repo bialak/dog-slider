@@ -41,7 +41,7 @@ Maybe you can guess which dog is mine ? :D
 
 
 [Javacript-logo]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E
-[css-logo]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white
+[css-logo]: https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white
 
 
 
