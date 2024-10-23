@@ -31,12 +31,30 @@ This slider is just baner with dogs :D . In one photo is my dog. If you like ani
 * ![Html][html-logo]
 
 
-All you need to do is : 
-1. Clone repository writing in terminal : git clone https://github.com/bialak/dog-slider.git
-2. Download Live Server Extension in Visiual studio code or another code editor.
-3. Right click on index.html and choose option "Open in Live Server"
+
+### Installation
+
+1. Clone the repo
+   ```sh
+    git clone https://github.com/bialak/dog-slider.git
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+
+4. Download Live Server Extension in Visiual studio code or another code editor.
+
+6. Right click on index.html and choose option "Open in Live Server"
+   
+### Contact
+
+Klaudia Biała - klaudiabiaa@gmail.com
+
+Project Link: https://bialak.github.io/dog-slider/
 
 Maybe you can guess which dog is mine ? :D
+
 
 
 [Javacript-logo]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E
